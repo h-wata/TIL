@@ -18,4 +18,3 @@
 - .giit/フォルダはGit管理ができないので、各自でpre-commitの設定を行う必要がある
   - [参考](https://qiita.com/cathcheeno/items/cb5df2eef1e655f089b7)
   - [gitの運用について](https://labs.gree.jp/blog/2011/03/2885/)
-
