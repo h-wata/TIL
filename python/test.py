@@ -3,12 +3,11 @@
 
 import os
 
-
 print("hello")
 
 
 def my_method(params):
 
-    total = 1+2
+    total = 1 + 2
 
     return total
